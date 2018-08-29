@@ -15,3 +15,5 @@ try:
             print(i+1)
 except:
     print('sorry,input error')
+
+    list1=[1,2,3,45]
