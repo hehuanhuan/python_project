@@ -16,6 +16,6 @@ try:
 except:
     print('sorry,input error')
 
-    list1=[1,2,3,45]
-    list2=list1
-    print(list2)
+list1=[1,2,3,45]
+list2=list1
+print(list2)
